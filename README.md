@@ -1,16 +1,14 @@
-### Hi there 👋
+[![xzxxn777's github stats](https://github-readme-stats.vercel.app/api?username=xzxxn777&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-<!--
-**xzxxn777/xzxxn777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xzxxn777&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-Here are some ideas to get you started:
+ ### Hi there 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ - 🔭 I’m currently interested in JavaScript and Python.
+ - 🌱 I’m currently learning Chemistry.
+ - 💬 Ask me about: Anything!
+ - 📫 How to reach me: [@xzxxn777](https://t.me/xzxxn777)
+ - ⚡ Fun fact: Love Funko!
+
+#### Thank you for the visit.
+![](http://profile-counter.glitch.me/xzxxn777/count.svg)
