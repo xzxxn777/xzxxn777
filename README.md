@@ -8,7 +8,7 @@
         <td valign="top" width="50%">
 
 #### 🏷️ <a target="_blank">Thank you for the visit</a>
-<div align="center"><img src="https://count.getloli.com/get/@NAME" alt="NAME" /></div>
+<div align="center"><img src="https://count.getloli.com/get/@xzxxn777?theme=gelbooru" alt="xzxxn777" /></div>
 </td>
     </tr>
     </div>
