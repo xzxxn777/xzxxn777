@@ -3,7 +3,7 @@
 <div align="center">
     <tr>
         <td width="50%"  align="center">
-      <img  height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xzxxn7&layout=compact" />
+      <img  height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xzxxn777&layout=compact" />
         </td>
         <td valign="top" width="50%">
 
