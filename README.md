@@ -1,4 +1,8 @@
-<h1><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F6A4F7&width=435&lines=hello%2CI%E2%80%99m+xzxxn777" alt="Typing SVG" /></a></h1>
+<h1 align="center">
+
+![Profile](https://github-widgetbox.vercel.app/api/profile?username=xzxxn777&data=followers,repositories,stars,commits)
+
+</h1>
 <table align="center">
 <div align="center">
     <tr>
@@ -18,4 +22,10 @@
 
 <div align="center"><img src="https://raw.githubusercontent.com/Achuan-2/Achuan-2/main/assets/github-contribution-grid-snake.svg" ></div>
 
-[![xzxxn777's github stats](https://github-readme-stats.vercel.app/api?username=xzxxn777&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+## My Gtihub Trohpy
+
+<div align="center">
+
+![](https://github-profile-trophy.vercel.app/?username=xzxxn777)
+
+</div>
